@@ -35,7 +35,7 @@ GIF created with Ezgif.com https://ezgif.com/
 ## Notes
 
 Describe any challenges encountered while building the app.
-I couldn't say that I faced any challenges, I just learned several new topics that I didn't covered before, so it took me some time to understand them. Such as, reduce, filter, and arrow functions.
+I didn't face any significant challenges. I just learned several new topics that I didn't cover before, so it took me some time to understand them, such as reduce, filter, and arrow functions.
 ## License
 
     Copyright [yyyy] [name of copyright owner]
